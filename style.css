@@ -55,6 +55,9 @@ main div input {
   border: 2px solid #d3d6da;
   height: 60px;
   width: 60px;
+  font-size: 50px;
+  font-weight: bold;
+
 }
 
 /* footer */
